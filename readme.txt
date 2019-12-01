@@ -6,3 +6,4 @@ append fine line
 append six line
 在dev分支上进行新版本的开发ing.......
 在issue_1分支上解决了bug
+小伙伴在dev分支开发ing。。。。。
